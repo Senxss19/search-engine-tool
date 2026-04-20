@@ -49,6 +49,7 @@ search-engine-tool/
 ├── data/
 │   └── index.json
 │
+├── pytest.ini
 ├── requirements.txt
 └── README.md
 ```
