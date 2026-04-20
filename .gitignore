@@ -1,0 +1,17 @@
+# env
+.venv/
+venv/
+ENV/
+
+# IDE configf
+.idea/
+.vscode/
+
+# Python cache
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# system file
+.DS_Store

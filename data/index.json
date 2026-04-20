@@ -1,0 +1,10274 @@
+{
+  "the": {
+    "http://quotes.toscrape.com/": {
+      "count": 3,
+      "positions": [
+        0,
+        54,
+        63
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 13,
+      "positions": [
+        23,
+        57,
+        81,
+        85,
+        289,
+        324,
+        338,
+        406,
+        438,
+        448,
+        458,
+        469,
+        505
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        116,
+        119
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 9,
+      "positions": [
+        0,
+        5,
+        11,
+        16,
+        43,
+        57,
+        80,
+        87,
+        118
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 6,
+      "positions": [
+        11,
+        77,
+        81,
+        122,
+        127,
+        148
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 5,
+      "positions": [
+        50,
+        103,
+        119,
+        162,
+        170
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 6,
+      "positions": [
+        2,
+        49,
+        52,
+        135,
+        180,
+        184
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 9,
+      "positions": [
+        31,
+        67,
+        95,
+        113,
+        126,
+        136,
+        154,
+        165,
+        181
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 15,
+      "positions": [
+        34,
+        70,
+        135,
+        140,
+        142,
+        156,
+        164,
+        172,
+        200,
+        209,
+        216,
+        222,
+        245,
+        248,
+        263
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 7,
+      "positions": [
+        0,
+        21,
+        42,
+        73,
+        111,
+        120,
+        137
+      ]
+    }
+  },
+  "world": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        1
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        86
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        61
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        166
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        141,
+        246
+      ]
+    }
+  },
+  "as": {
+    "http://quotes.toscrape.com/": {
+      "count": 3,
+      "positions": [
+        2,
+        48,
+        57
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        87,
+        228
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        201
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 2,
+      "positions": [
+        142,
+        144
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 3,
+      "positions": [
+        8,
+        234,
+        236
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        169
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        259
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        160
+      ]
+    }
+  },
+  "we": {
+    "http://quotes.toscrape.com/": {
+      "count": 2,
+      "positions": [
+        3,
+        29
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        515
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 3,
+      "positions": [
+        71,
+        106,
+        110
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        150
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 2,
+      "positions": [
+        157,
+        166
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        60
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        191,
+        204
+      ]
+    }
+  },
+  "have": {
+    "http://quotes.toscrape.com/": {
+      "count": 2,
+      "positions": [
+        4,
+        133
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        419,
+        430
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        83,
+        204
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 2,
+      "positions": [
+        124,
+        145
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        15
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 4,
+      "positions": [
+        219,
+        263,
+        273,
+        311
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 3,
+      "positions": [
+        40,
+        102,
+        114
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        108
+      ]
+    }
+  },
+  "created": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        5
+      ]
+    }
+  },
+  "it": {
+    "http://quotes.toscrape.com/": {
+      "count": 8,
+      "positions": [
+        6,
+        13,
+        21,
+        66,
+        89,
+        113,
+        157,
+        160
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 14,
+      "positions": [
+        6,
+        17,
+        37,
+        48,
+        103,
+        213,
+        241,
+        251,
+        403,
+        445,
+        455,
+        465,
+        476,
+        479
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 3,
+      "positions": [
+        122,
+        184,
+        234
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 3,
+      "positions": [
+        24,
+        39,
+        135
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 2,
+      "positions": [
+        129,
+        154
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        23
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 11,
+      "positions": [
+        66,
+        77,
+        105,
+        110,
+        119,
+        131,
+        150,
+        153,
+        158,
+        217,
+        247
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 5,
+      "positions": [
+        54,
+        92,
+        99,
+        119,
+        191
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 4,
+      "positions": [
+        19,
+        148,
+        272,
+        276
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 7,
+      "positions": [
+        4,
+        29,
+        55,
+        106,
+        132,
+        146,
+        167
+      ]
+    }
+  },
+  "is": {
+    "http://quotes.toscrape.com/": {
+      "count": 12,
+      "positions": [
+        7,
+        22,
+        47,
+        51,
+        56,
+        60,
+        83,
+        86,
+        114,
+        147,
+        158,
+        169
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 10,
+      "positions": [
+        2,
+        26,
+        410,
+        442,
+        452,
+        462,
+        473,
+        480,
+        504,
+        509
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 7,
+      "positions": [
+        40,
+        53,
+        114,
+        145,
+        150,
+        155,
+        185
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 8,
+      "positions": [
+        25,
+        40,
+        45,
+        47,
+        85,
+        94,
+        120,
+        136
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 7,
+      "positions": [
+        64,
+        80,
+        118,
+        134,
+        157,
+        161,
+        165
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 7,
+      "positions": [
+        1,
+        24,
+        108,
+        117,
+        125,
+        139,
+        185
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 5,
+      "positions": [
+        82,
+        166,
+        195,
+        202,
+        240
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 5,
+      "positions": [
+        40,
+        82,
+        132,
+        186,
+        194
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 6,
+      "positions": [
+        16,
+        47,
+        51,
+        83,
+        231,
+        250
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 2,
+      "positions": [
+        5,
+        168
+      ]
+    }
+  },
+  "a": {
+    "http://quotes.toscrape.com/": {
+      "count": 9,
+      "positions": [
+        8,
+        52,
+        61,
+        75,
+        103,
+        109,
+        145,
+        149,
+        165
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 9,
+      "positions": [
+        19,
+        202,
+        215,
+        243,
+        345,
+        411,
+        482,
+        487,
+        500
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 6,
+      "positions": [
+        98,
+        106,
+        111,
+        132,
+        137,
+        220
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 2,
+      "positions": [
+        97,
+        131
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 10,
+      "positions": [
+        0,
+        3,
+        23,
+        30,
+        54,
+        67,
+        101,
+        158,
+        162,
+        166
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 6,
+      "positions": [
+        55,
+        59,
+        72,
+        78,
+        133,
+        145
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 5,
+      "positions": [
+        12,
+        206,
+        241,
+        253,
+        296
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 5,
+      "positions": [
+        3,
+        83,
+        101,
+        148,
+        200
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 9,
+      "positions": [
+        5,
+        12,
+        30,
+        43,
+        57,
+        98,
+        103,
+        226,
+        238
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 8,
+      "positions": [
+        6,
+        78,
+        84,
+        147,
+        150,
+        156,
+        161,
+        164
+      ]
+    }
+  },
+  "process": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        9
+      ]
+    }
+  },
+  "of": {
+    "http://quotes.toscrape.com/": {
+      "count": 3,
+      "positions": [
+        10,
+        105,
+        111
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 13,
+      "positions": [
+        75,
+        105,
+        111,
+        218,
+        291,
+        337,
+        347,
+        440,
+        450,
+        460,
+        471,
+        484,
+        489
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 3,
+      "positions": [
+        33,
+        76,
+        118
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 3,
+      "positions": [
+        22,
+        64,
+        133
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        25
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 3,
+      "positions": [
+        18,
+        97,
+        150
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 4,
+      "positions": [
+        51,
+        103,
+        139,
+        278
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 4,
+      "positions": [
+        10,
+        38,
+        104,
+        174
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 12,
+      "positions": [
+        72,
+        93,
+        97,
+        105,
+        130,
+        139,
+        155,
+        158,
+        163,
+        174,
+        218,
+        224
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 3,
+      "positions": [
+        93,
+        99,
+        145
+      ]
+    }
+  },
+  "our": {
+    "http://quotes.toscrape.com/": {
+      "count": 4,
+      "positions": [
+        11,
+        19,
+        23,
+        35
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        224,
+        234
+      ]
+    }
+  },
+  "thinking": {
+    "http://quotes.toscrape.com/": {
+      "count": 2,
+      "positions": [
+        12,
+        20
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        332
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        118
+      ]
+    }
+  },
+  "cannot": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        14
+      ]
+    }
+  },
+  "be": {
+    "http://quotes.toscrape.com/": {
+      "count": 6,
+      "positions": [
+        15,
+        65,
+        79,
+        93,
+        117,
+        125
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 5,
+      "positions": [
+        41,
+        256,
+        295,
+        331,
+        437
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 3,
+      "positions": [
+        124,
+        165,
+        176
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 2,
+      "positions": [
+        130,
+        141
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        141
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        77
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 6,
+      "positions": [
+        84,
+        92,
+        156,
+        168,
+        214,
+        256
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 4,
+      "positions": [
+        110,
+        169,
+        182,
+        215
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 4,
+      "positions": [
+        14,
+        50,
+        116,
+        123
+      ]
+    }
+  },
+  "changed": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        16
+      ]
+    }
+  },
+  "without": {
+    "http://quotes.toscrape.com/": {
+      "count": 2,
+      "positions": [
+        17,
+        167
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 3,
+      "positions": [
+        3,
+        15,
+        189
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        192
+      ]
+    }
+  },
+  "changing": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        18
+      ]
+    }
+  },
+  "choices": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        24
+      ]
+    }
+  },
+  "harry": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        25
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        30
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        182
+      ]
+    }
+  },
+  "that": {
+    "http://quotes.toscrape.com/": {
+      "count": 2,
+      "positions": [
+        26,
+        141
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 5,
+      "positions": [
+        59,
+        140,
+        147,
+        349,
+        491
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 5,
+      "positions": [
+        47,
+        58,
+        103,
+        144,
+        198
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 5,
+      "positions": [
+        2,
+        13,
+        36,
+        38,
+        127
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 3,
+      "positions": [
+        33,
+        105,
+        165
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        0,
+        144
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 4,
+      "positions": [
+        41,
+        85,
+        97,
+        120
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 3,
+      "positions": [
+        167,
+        196,
+        262
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 2,
+      "positions": [
+        23,
+        113
+      ]
+    }
+  },
+  "show": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        27
+      ]
+    }
+  },
+  "what": {
+    "http://quotes.toscrape.com/": {
+      "count": 3,
+      "positions": [
+        28,
+        120,
+        128
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 4,
+      "positions": [
+        3,
+        9,
+        277,
+        510
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        142
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 2,
+      "positions": [
+        132,
+        137
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        114
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        221
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 2,
+      "positions": [
+        24,
+        77
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 3,
+      "positions": [
+        46,
+        50,
+        54
+      ]
+    }
+  },
+  "truly": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        30
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        25
+      ]
+    }
+  },
+  "are": {
+    "http://quotes.toscrape.com/": {
+      "count": 4,
+      "positions": [
+        31,
+        38,
+        122,
+        130
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        113,
+        516
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        70,
+        142
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        10
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 3,
+      "positions": [
+        175,
+        276,
+        308
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 3,
+      "positions": [
+        120,
+        192,
+        205
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 2,
+      "positions": [
+        66,
+        142
+      ]
+    }
+  },
+  "far": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        32
+      ]
+    }
+  },
+  "more": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        33
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        373
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        177,
+        181
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 4,
+      "positions": [
+        1,
+        6,
+        12,
+        17
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        279
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        136,
+        143
+      ]
+    }
+  },
+  "than": {
+    "http://quotes.toscrape.com/": {
+      "count": 3,
+      "positions": [
+        34,
+        96,
+        123
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        374
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        147,
+        157
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        280
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        96
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        75
+      ]
+    }
+  },
+  "abilities": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        36
+      ]
+    }
+  },
+  "there": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        37
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        206,
+        399
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        39,
+        149
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 2,
+      "positions": [
+        0,
+        138
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        194,
+        275
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        82,
+        119
+      ]
+    }
+  },
+  "only": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        39
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        263
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 2,
+      "positions": [
+        17,
+        120
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 2,
+      "positions": [
+        101,
+        112
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 3,
+      "positions": [
+        74,
+        137,
+        155
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        268
+      ]
+    }
+  },
+  "two": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        40
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        290
+      ]
+    }
+  },
+  "ways": {
+    "http://quotes.toscrape.com/": {
+      "count": 2,
+      "positions": [
+        41,
+        140
+      ]
+    }
+  },
+  "to": {
+    "http://quotes.toscrape.com/": {
+      "count": 5,
+      "positions": [
+        42,
+        92,
+        101,
+        116,
+        124
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 16,
+      "positions": [
+        13,
+        29,
+        35,
+        101,
+        115,
+        210,
+        220,
+        223,
+        230,
+        233,
+        242,
+        307,
+        312,
+        424,
+        436,
+        512
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 7,
+      "positions": [
+        86,
+        128,
+        130,
+        164,
+        175,
+        187,
+        221
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 6,
+      "positions": [
+        49,
+        55,
+        79,
+        108,
+        121,
+        140
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 5,
+      "positions": [
+        34,
+        44,
+        69,
+        140,
+        152
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 2,
+      "positions": [
+        63,
+        66
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 13,
+      "positions": [
+        23,
+        33,
+        41,
+        70,
+        78,
+        83,
+        100,
+        111,
+        164,
+        167,
+        197,
+        255,
+        310
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 4,
+      "positions": [
+        50,
+        130,
+        188,
+        196
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 7,
+      "positions": [
+        23,
+        27,
+        41,
+        56,
+        185,
+        214,
+        233
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 10,
+      "positions": [
+        26,
+        34,
+        46,
+        47,
+        58,
+        69,
+        109,
+        115,
+        139,
+        169
+      ]
+    }
+  },
+  "live": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        43
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        188,
+        195
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        86
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        191
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        168
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        39
+      ]
+    }
+  },
+  "your": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        44
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 6,
+      "positions": [
+        42,
+        67,
+        117,
+        134,
+        187,
+        191
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 3,
+      "positions": [
+        48,
+        63,
+        162
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        28
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 3,
+      "positions": [
+        71,
+        89,
+        94
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 4,
+      "positions": [
+        56,
+        89,
+        140,
+        259
+      ]
+    }
+  },
+  "life": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        45
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 5,
+      "positions": [
+        1,
+        200,
+        472,
+        507,
+        508
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        63
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 3,
+      "positions": [
+        94,
+        178,
+        184
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        225
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        41
+      ]
+    }
+  },
+  "one": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        46
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        152,
+        228
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 2,
+      "positions": [
+        18,
+        47
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 3,
+      "positions": [
+        29,
+        148,
+        171
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        113,
+        281
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 3,
+      "positions": [
+        138,
+        156,
+        170
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        91
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        22
+      ]
+    }
+  },
+  "though": {
+    "http://quotes.toscrape.com/": {
+      "count": 2,
+      "positions": [
+        49,
+        58
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        125
+      ]
+    }
+  },
+  "nothing": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        50
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        2
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        37,
+        196
+      ]
+    }
+  },
+  "miracle": {
+    "http://quotes.toscrape.com/": {
+      "count": 2,
+      "positions": [
+        53,
+        62
+      ]
+    }
+  },
+  "other": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        55
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        518
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        31
+      ]
+    }
+  },
+  "everything": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        59
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 3,
+      "positions": [
+        64,
+        150,
+        164
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        279
+      ]
+    }
+  },
+  "person": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        64
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        53
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 3,
+      "positions": [
+        85,
+        148,
+        151
+      ]
+    }
+  },
+  "gentleman": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        67
+      ]
+    }
+  },
+  "or": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        68
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        261
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 5,
+      "positions": [
+        6,
+        8,
+        17,
+        43,
+        134
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 3,
+      "positions": [
+        29,
+        91,
+        96
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        137
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        176
+      ]
+    }
+  },
+  "lady": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        69
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        13
+      ]
+    }
+  },
+  "who": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        70
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        142,
+        182
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        90,
+        154
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 2,
+      "positions": [
+        13,
+        83
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        9
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 3,
+      "positions": [
+        54,
+        173,
+        190
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 2,
+      "positions": [
+        185,
+        193
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 3,
+      "positions": [
+        1,
+        59,
+        228
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 2,
+      "positions": [
+        63,
+        141
+      ]
+    }
+  },
+  "has": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        71
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 2,
+      "positions": [
+        127,
+        173
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 3,
+      "positions": [
+        2,
+        7,
+        265
+      ]
+    }
+  },
+  "not": {
+    "http://quotes.toscrape.com/": {
+      "count": 4,
+      "positions": [
+        72,
+        100,
+        131,
+        134
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 10,
+      "positions": [
+        255,
+        282,
+        330,
+        398,
+        418,
+        443,
+        453,
+        463,
+        474,
+        481
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        28,
+        203
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 3,
+      "positions": [
+        41,
+        62,
+        112
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 2,
+      "positions": [
+        131,
+        144
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 6,
+      "positions": [
+        5,
+        25,
+        40,
+        49,
+        71,
+        168
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 4,
+      "positions": [
+        114,
+        155,
+        170,
+        178
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        153
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 3,
+      "positions": [
+        115,
+        193,
+        267
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        143
+      ]
+    }
+  },
+  "pleasure": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        73
+      ]
+    }
+  },
+  "in": {
+    "http://quotes.toscrape.com/": {
+      "count": 2,
+      "positions": [
+        74,
+        162
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 3,
+      "positions": [
+        84,
+        174,
+        414
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 6,
+      "positions": [
+        22,
+        37,
+        93,
+        105,
+        115,
+        208
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        121
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 4,
+      "positions": [
+        58,
+        83,
+        89,
+        95
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 6,
+      "positions": [
+        20,
+        31,
+        63,
+        134,
+        143,
+        231
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        53
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        29,
+        257
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        105
+      ]
+    }
+  },
+  "good": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        76
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 3,
+      "positions": [
+        24,
+        495,
+        497
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        229
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        38
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        27
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        61
+      ]
+    }
+  },
+  "novel": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        77
+      ]
+    }
+  },
+  "must": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        78
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        100
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        74
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        108
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        29
+      ]
+    }
+  },
+  "intolerably": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        80
+      ]
+    }
+  },
+  "stupid": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        81
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        133
+      ]
+    }
+  },
+  "imperfection": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        82
+      ]
+    }
+  },
+  "beauty": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        84
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        113
+      ]
+    }
+  },
+  "madness": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        85
+      ]
+    }
+  },
+  "genius": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        87
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 2,
+      "positions": [
+        122,
+        126
+      ]
+    }
+  },
+  "and": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        88
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 14,
+      "positions": [
+        94,
+        97,
+        146,
+        169,
+        194,
+        205,
+        288,
+        310,
+        315,
+        321,
+        369,
+        392,
+        468,
+        499
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        121
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        101
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 2,
+      "positions": [
+        114,
+        146
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        123
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 10,
+      "positions": [
+        35,
+        88,
+        94,
+        124,
+        186,
+        208,
+        213,
+        226,
+        249,
+        287
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 7,
+      "positions": [
+        48,
+        57,
+        60,
+        63,
+        106,
+        164,
+        205
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 6,
+      "positions": [
+        49,
+        62,
+        64,
+        127,
+        149,
+        162
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 5,
+      "positions": [
+        8,
+        11,
+        61,
+        102,
+        118
+      ]
+    }
+  },
+  "s": {
+    "http://quotes.toscrape.com/": {
+      "count": 2,
+      "positions": [
+        90,
+        161
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 9,
+      "positions": [
+        18,
+        201,
+        207,
+        281,
+        397,
+        446,
+        456,
+        466,
+        477
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        131
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        1,
+        67
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        192
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        14
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 3,
+      "positions": [
+        24,
+        30,
+        149
+      ]
+    }
+  },
+  "better": {
+    "http://quotes.toscrape.com/": {
+      "count": 2,
+      "positions": [
+        91,
+        115
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        68
+      ]
+    }
+  },
+  "absolutely": {
+    "http://quotes.toscrape.com/": {
+      "count": 2,
+      "positions": [
+        94,
+        97
+      ]
+    }
+  },
+  "ridiculous": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        95
+      ]
+    }
+  },
+  "boring": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        98
+      ]
+    }
+  },
+  "try": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        99
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        76
+      ]
+    }
+  },
+  "become": {
+    "http://quotes.toscrape.com/": {
+      "count": 2,
+      "positions": [
+        102,
+        108
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        160
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        62
+      ]
+    }
+  },
+  "man": {
+    "http://quotes.toscrape.com/": {
+      "count": 2,
+      "positions": [
+        104,
+        110
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 2,
+      "positions": [
+        12,
+        82
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        227
+      ]
+    }
+  },
+  "success": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        106
+      ]
+    }
+  },
+  "rather": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        107
+      ]
+    }
+  },
+  "value": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        112
+      ]
+    }
+  },
+  "hated": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        118
+      ]
+    }
+  },
+  "for": {
+    "http://quotes.toscrape.com/": {
+      "count": 2,
+      "positions": [
+        119,
+        127
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        88,
+        149
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        66
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        61
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 3,
+      "positions": [
+        7,
+        135,
+        176
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        5
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        202
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 3,
+      "positions": [
+        32,
+        126,
+        133
+      ]
+    }
+  },
+  "you": {
+    "http://quotes.toscrape.com/": {
+      "count": 4,
+      "positions": [
+        121,
+        129,
+        152,
+        171
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 27,
+      "positions": [
+        4,
+        10,
+        27,
+        32,
+        62,
+        120,
+        127,
+        130,
+        136,
+        144,
+        153,
+        159,
+        178,
+        237,
+        247,
+        253,
+        275,
+        284,
+        292,
+        303,
+        306,
+        326,
+        334,
+        344,
+        352,
+        382,
+        390
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 22,
+      "positions": [
+        2,
+        13,
+        21,
+        44,
+        69,
+        72,
+        79,
+        82,
+        97,
+        110,
+        141,
+        143,
+        158,
+        160,
+        172,
+        194,
+        199,
+        211,
+        218,
+        226,
+        236,
+        237
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 8,
+      "positions": [
+        3,
+        8,
+        14,
+        19,
+        51,
+        52,
+        92,
+        143
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 8,
+      "positions": [
+        19,
+        37,
+        41,
+        51,
+        57,
+        73,
+        86,
+        125
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 4,
+      "positions": [
+        35,
+        100,
+        110,
+        136
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 13,
+      "positions": [
+        18,
+        29,
+        39,
+        45,
+        74,
+        98,
+        107,
+        200,
+        218,
+        222,
+        237,
+        244,
+        303
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 9,
+      "positions": [
+        11,
+        69,
+        75,
+        87,
+        93,
+        107,
+        116,
+        143,
+        160
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        39,
+        180
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 6,
+      "positions": [
+        64,
+        80,
+        87,
+        96,
+        107,
+        130
+      ]
+    }
+  },
+  "loved": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        126
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        265
+      ]
+    }
+  },
+  "i": {
+    "http://quotes.toscrape.com/": {
+      "count": 2,
+      "positions": [
+        132,
+        136
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 7,
+      "positions": [
+        99,
+        400,
+        416,
+        422,
+        427,
+        429,
+        434
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 6,
+      "positions": [
+        0,
+        11,
+        19,
+        26,
+        42,
+        60
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        123
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 11,
+      "positions": [
+        3,
+        14,
+        36,
+        43,
+        47,
+        52,
+        69,
+        74,
+        80,
+        85,
+        91
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 6,
+      "positions": [
+        6,
+        9,
+        262,
+        272,
+        293,
+        299
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 11,
+      "positions": [
+        1,
+        8,
+        12,
+        128,
+        134,
+        141,
+        146,
+        151,
+        157,
+        171,
+        177
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 12,
+      "positions": [
+        78,
+        101,
+        108,
+        113,
+        124,
+        132,
+        137,
+        145,
+        255,
+        260,
+        270,
+        277
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 2,
+      "positions": [
+        19,
+        44
+      ]
+    }
+  },
+  "failed": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        135
+      ]
+    }
+  },
+  "ve": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        137
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        294
+      ]
+    }
+  },
+  "just": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        138
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 3,
+      "positions": [
+        51,
+        151,
+        227
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        53
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        97
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        54
+      ]
+    }
+  },
+  "found": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        139
+      ]
+    }
+  },
+  "won": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        142
+      ]
+    }
+  },
+  "t": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        143
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 11,
+      "positions": [
+        72,
+        122,
+        157,
+        180,
+        239,
+        249,
+        286,
+        359,
+        363,
+        367,
+        371
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        104
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 2,
+      "positions": [
+        107,
+        112
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        180
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        47
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 3,
+      "positions": [
+        122,
+        184,
+        207
+      ]
+    }
+  },
+  "work": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        144
+      ]
+    }
+  },
+  "woman": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        146
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        55
+      ]
+    }
+  },
+  "like": {
+    "http://quotes.toscrape.com/": {
+      "count": 2,
+      "positions": [
+        148,
+        170
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        47,
+        401
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        65
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        132
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        76
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        118
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        86
+      ]
+    }
+  },
+  "tea": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        150
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        26
+      ]
+    }
+  },
+  "bag": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        151
+      ]
+    }
+  },
+  "never": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        153
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 3,
+      "positions": [
+        132,
+        138,
+        294
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        137
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 2,
+      "positions": [
+        14,
+        21
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        264
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        21
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        3,
+        8
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 2,
+      "positions": [
+        81,
+        135
+      ]
+    }
+  },
+  "know": {
+    "http://quotes.toscrape.com/": {
+      "count": 2,
+      "positions": [
+        154,
+        172
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        386
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        29
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 3,
+      "positions": [
+        10,
+        109,
+        117
+      ]
+    }
+  },
+  "how": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        155
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        31
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        5
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        88,
+        207
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        154
+      ]
+    }
+  },
+  "strong": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        156
+      ]
+    }
+  },
+  "until": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        159
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 2,
+      "positions": [
+        86,
+        95
+      ]
+    }
+  },
+  "hot": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        163
+      ]
+    }
+  },
+  "water": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        164
+      ]
+    }
+  },
+  "day": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        166
+      ]
+    },
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        339
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        32
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        212,
+        243
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        151,
+        179
+      ]
+    }
+  },
+  "sunshine": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        168
+      ]
+    }
+  },
+  "night": {
+    "http://quotes.toscrape.com/": {
+      "count": 1,
+      "positions": [
+        173
+      ]
+    }
+  },
+  "this": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        0,
+        503
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        23,
+        36
+      ]
+    }
+  },
+  "make": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 3,
+      "positions": [
+        5,
+        80,
+        302
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        96,
+        109
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 2,
+      "positions": [
+        53,
+        59
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        42,
+        101
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        42
+      ]
+    }
+  },
+  "no": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        7
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 4,
+      "positions": [
+        41,
+        84,
+        151,
+        239
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        46
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 2,
+      "positions": [
+        16,
+        140
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        112,
+        228
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        84
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        152
+      ]
+    }
+  },
+  "matter": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        8
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        153
+      ]
+    }
+  },
+  "re": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 4,
+      "positions": [
+        11,
+        33,
+        66,
+        160
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        111
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        61
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        88
+      ]
+    }
+  },
+  "going": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 3,
+      "positions": [
+        12,
+        34,
+        114
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        48
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        309
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 2,
+      "positions": [
+        187,
+        195
+      ]
+    }
+  },
+  "mess": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        14,
+        36
+      ]
+    }
+  },
+  "up": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 9,
+      "positions": [
+        15,
+        38,
+        124,
+        129,
+        193,
+        222,
+        232,
+        405,
+        432
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        168
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        132
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 2,
+      "positions": [
+        72,
+        111
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        60
+      ]
+    }
+  },
+  "sometimes": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        16
+      ]
+    }
+  },
+  "universal": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        20
+      ]
+    }
+  },
+  "truth": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        21
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        44
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        249
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 3,
+      "positions": [
+        1,
+        74,
+        138
+      ]
+    }
+  },
+  "but": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 9,
+      "positions": [
+        22,
+        50,
+        119,
+        226,
+        271,
+        298,
+        340,
+        426,
+        486
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        35
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 4,
+      "positions": [
+        31,
+        70,
+        86,
+        96
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 4,
+      "positions": [
+        48,
+        105,
+        110,
+        136
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 3,
+      "positions": [
+        39,
+        46,
+        155
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        142,
+        292
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        150
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        273
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        67
+      ]
+    }
+  },
+  "part": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        25,
+        346
+      ]
+    }
+  },
+  "get": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        28
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        217,
+        225
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        22
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        70
+      ]
+    }
+  },
+  "decide": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        30
+      ]
+    }
+  },
+  "girls": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        39
+      ]
+    }
+  },
+  "will": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 3,
+      "positions": [
+        40,
+        183,
+        342
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        216,
+        224
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 2,
+      "positions": [
+        9,
+        129
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 4,
+      "positions": [
+        91,
+        151,
+        154,
+        159
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 2,
+      "positions": [
+        43,
+        167
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 3,
+      "positions": [
+        181,
+        198,
+        211
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 2,
+      "positions": [
+        49,
+        122
+      ]
+    }
+  },
+  "friends": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 5,
+      "positions": [
+        43,
+        70,
+        83,
+        235,
+        496
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        13
+      ]
+    }
+  },
+  "they": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 3,
+      "positions": [
+        44,
+        65,
+        91
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        138
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        28
+      ]
+    }
+  },
+  "ll": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 4,
+      "positions": [
+        45,
+        92,
+        131,
+        137
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        20
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        161
+      ]
+    }
+  },
+  "act": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        46
+      ]
+    }
+  },
+  "anyway": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        49
+      ]
+    }
+  },
+  "remember": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        52,
+        78
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        59
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 3,
+      "positions": [
+        32,
+        53,
+        75
+      ]
+    }
+  },
+  "some": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        53,
+        55
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 3,
+      "positions": [
+        224,
+        283,
+        288
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        19
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        178
+      ]
+    }
+  },
+  "come": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        54,
+        93
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        284,
+        289
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        37
+      ]
+    }
+  },
+  "go": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 4,
+      "positions": [
+        56,
+        74,
+        95,
+        425
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        21
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        22
+      ]
+    }
+  },
+  "ones": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        58
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        58
+      ]
+    }
+  },
+  "stay": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        60
+      ]
+    }
+  },
+  "with": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        61
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        76
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 7,
+      "positions": [
+        4,
+        122,
+        216,
+        250,
+        258,
+        269,
+        313
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        33
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        147
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 2,
+      "positions": [
+        16,
+        77
+      ]
+    }
+  },
+  "through": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        63
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        15
+      ]
+    }
+  },
+  "true": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        68
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        148
+      ]
+    }
+  },
+  "best": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        69,
+        82
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        201,
+        210
+      ]
+    }
+  },
+  "don": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 7,
+      "positions": [
+        71,
+        179,
+        248,
+        358,
+        362,
+        366,
+        370
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        46
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        206
+      ]
+    }
+  },
+  "let": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        73,
+        384
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        265
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        189
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        37
+      ]
+    }
+  },
+  "them": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 3,
+      "positions": [
+        76,
+        106,
+        112
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 4,
+      "positions": [
+        88,
+        168,
+        174,
+        180
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        233
+      ]
+    }
+  },
+  "also": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        77
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        101
+      ]
+    }
+  },
+  "sisters": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        79
+      ]
+    }
+  },
+  "lovers": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        89
+      ]
+    }
+  },
+  "well": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        90
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        202
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        81
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        134
+      ]
+    }
+  },
+  "too": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        96
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        138
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        251
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        124
+      ]
+    }
+  },
+  "baby": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        98
+      ]
+    }
+  },
+  "hate": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        100,
+        444
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        178
+      ]
+    }
+  },
+  "say": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        102
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        145
+      ]
+    }
+  },
+  "most": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 3,
+      "positions": [
+        104,
+        195,
+        325
+      ]
+    }
+  },
+  "actually": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        107
+      ]
+    }
+  },
+  "pretty": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        108
+      ]
+    }
+  },
+  "much": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 3,
+      "positions": [
+        109,
+        209,
+        229
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        124
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        89
+      ]
+    }
+  },
+  "all": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        110
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        207
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 2,
+      "positions": [
+        63,
+        91
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 7,
+      "positions": [
+        68,
+        81,
+        128,
+        171,
+        188,
+        199,
+        301
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 2,
+      "positions": [
+        89,
+        175
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        81,
+        159
+      ]
+    }
+  },
+  "break": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        116,
+        354
+      ]
+    }
+  },
+  "heart": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        118,
+        356
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        90
+      ]
+    }
+  },
+  "can": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 6,
+      "positions": [
+        121,
+        238,
+        301,
+        327,
+        353,
+        376
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        95,
+        108
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 3,
+      "positions": [
+        66,
+        72,
+        116
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 5,
+      "positions": [
+        20,
+        52,
+        58,
+        84,
+        124
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        111
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        238
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        70
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        168,
+        240
+      ]
+    }
+  },
+  "give": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 5,
+      "positions": [
+        123,
+        128,
+        322,
+        343,
+        377
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        131
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        109
+      ]
+    }
+  },
+  "because": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 4,
+      "positions": [
+        125,
+        152,
+        176,
+        199
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        25
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        133
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 3,
+      "positions": [
+        66,
+        269,
+        274
+      ]
+    }
+  },
+  "if": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 5,
+      "positions": [
+        126,
+        177,
+        236,
+        272,
+        299
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 3,
+      "positions": [
+        78,
+        159,
+        171
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        50
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 2,
+      "positions": [
+        68,
+        99
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 4,
+      "positions": [
+        14,
+        25,
+        36,
+        97
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 2,
+      "positions": [
+        0,
+        73
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        33,
+        112
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 2,
+      "positions": [
+        119,
+        166
+      ]
+    }
+  },
+  "find": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        133,
+        139
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        56
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        64
+      ]
+    }
+  },
+  "soulmate": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        135
+      ]
+    }
+  },
+  "half": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        141
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        242
+      ]
+    }
+  },
+  "makes": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 4,
+      "positions": [
+        143,
+        381,
+        389,
+        492
+      ]
+    }
+  },
+  "whole": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        145
+      ]
+    }
+  },
+  "goes": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        148
+      ]
+    }
+  },
+  "fail": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        154,
+        162
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        212
+      ]
+    }
+  },
+  "once": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        155
+      ]
+    }
+  },
+  "doesn": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        156
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        103
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 2,
+      "positions": [
+        106,
+        111
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        121
+      ]
+    }
+  },
+  "mean": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        158
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        37
+      ]
+    }
+  },
+  "gonna": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        161
+      ]
+    }
+  },
+  "at": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        163
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        191,
+        206
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        161
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        80,
+        205
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        235
+      ]
+    }
+  },
+  "keep": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 4,
+      "positions": [
+        165,
+        186,
+        190,
+        197
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 2,
+      "positions": [
+        70,
+        75
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        170
+      ]
+    }
+  },
+  "trying": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        166
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        62
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        49
+      ]
+    }
+  },
+  "hold": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        167,
+        318
+      ]
+    }
+  },
+  "on": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        168
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        33
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 2,
+      "positions": [
+        45,
+        112
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        171,
+        252
+      ]
+    }
+  },
+  "always": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 3,
+      "positions": [
+        170,
+        171,
+        172
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        125
+      ]
+    }
+  },
+  "believe": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        173
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 2,
+      "positions": [
+        38,
+        113
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        256,
+        261
+      ]
+    }
+  },
+  "yourself": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        175,
+        252
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        49
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 2,
+      "positions": [
+        183,
+        188
+      ]
+    }
+  },
+  "then": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        181
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        102
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        129
+      ]
+    }
+  },
+  "sweetie": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        184
+      ]
+    }
+  },
+  "so": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 3,
+      "positions": [
+        185,
+        208,
+        357
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 3,
+      "positions": [
+        45,
+        56,
+        196
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        40
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        159
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        65
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        36
+      ]
+    }
+  },
+  "head": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        188
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        29
+      ]
+    }
+  },
+  "high": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        189
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        252
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        65
+      ]
+    }
+  },
+  "chin": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        192
+      ]
+    }
+  },
+  "importantly": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        196
+      ]
+    }
+  },
+  "smiling": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        198
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        92
+      ]
+    }
+  },
+  "beautiful": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        203
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        7
+      ]
+    }
+  },
+  "thing": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        204
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        230
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        30
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        95
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        10
+      ]
+    }
+  },
+  "smile": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        211,
+        378
+      ]
+    }
+  },
+  "about": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        212,
+        333
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        231
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 2,
+      "positions": [
+        181,
+        186
+      ]
+    }
+  },
+  "takes": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        214
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        56
+      ]
+    }
+  },
+  "great": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        216
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 3,
+      "positions": [
+        68,
+        77,
+        89
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        17
+      ]
+    }
+  },
+  "deal": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        217
+      ]
+    }
+  },
+  "bravery": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        219
+      ]
+    }
+  },
+  "stand": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        221,
+        231
+      ]
+    }
+  },
+  "enemies": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        225
+      ]
+    }
+  },
+  "explain": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        240
+      ]
+    }
+  },
+  "six": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        244
+      ]
+    }
+  },
+  "year": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        245
+      ]
+    }
+  },
+  "old": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        246
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        260
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        183
+      ]
+    }
+  },
+  "understand": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        250
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        122
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        83
+      ]
+    }
+  },
+  "may": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 5,
+      "positions": [
+        254,
+        268,
+        293,
+        329,
+        417
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        123
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        144
+      ]
+    }
+  },
+  "her": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 11,
+      "positions": [
+        257,
+        259,
+        262,
+        320,
+        323,
+        348,
+        355,
+        361,
+        365,
+        385,
+        394
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        60
+      ]
+    }
+  },
+  "first": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        258
+      ]
+    }
+  },
+  "last": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        260
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        57
+      ]
+    }
+  },
+  "she": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 12,
+      "positions": [
+        264,
+        267,
+        273,
+        280,
+        300,
+        328,
+        341,
+        350,
+        375,
+        380,
+        388,
+        396
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        117
+      ]
+    }
+  },
+  "before": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        266
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 2,
+      "positions": [
+        6,
+        116
+      ]
+    }
+  },
+  "love": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 3,
+      "positions": [
+        269,
+        441,
+        485
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 4,
+      "positions": [
+        1,
+        12,
+        20,
+        87
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 2,
+      "positions": [
+        78,
+        95
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 5,
+      "positions": [
+        108,
+        142,
+        156,
+        160,
+        164
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        67
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 5,
+      "positions": [
+        64,
+        79,
+        86,
+        165,
+        193
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 3,
+      "positions": [
+        24,
+        26,
+        126
+      ]
+    }
+  },
+  "again": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        270
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        190
+      ]
+    }
+  },
+  "loves": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        274
+      ]
+    }
+  },
+  "now": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        276
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        100
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        305
+      ]
+    }
+  },
+  "else": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        278
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 2,
+      "positions": [
+        107,
+        116
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        280
+      ]
+    }
+  },
+  "matters": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        279
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        130
+      ]
+    }
+  },
+  "perfect": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        283,
+        296
+      ]
+    }
+  },
+  "aren": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        285
+      ]
+    }
+  },
+  "either": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        287
+      ]
+    }
+  },
+  "together": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        297
+      ]
+    }
+  },
+  "laugh": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        304
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        56
+      ]
+    }
+  },
+  "cause": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        305
+      ]
+    }
+  },
+  "think": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        308,
+        428
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        102
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        153
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 2,
+      "positions": [
+        82,
+        113
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 5,
+      "positions": [
+        55,
+        58,
+        61,
+        64,
+        71
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        133
+      ]
+    }
+  },
+  "twice": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        309
+      ]
+    }
+  },
+  "admit": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        311
+      ]
+    }
+  },
+  "being": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        313
+      ]
+    }
+  },
+  "human": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        314
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        160
+      ]
+    }
+  },
+  "making": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        316,
+        517
+      ]
+    }
+  },
+  "mistakes": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        317
+      ]
+    }
+  },
+  "onto": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        319
+      ]
+    }
+  },
+  "every": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        335
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        67
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        31
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        6
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        150
+      ]
+    }
+  },
+  "second": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        336
+      ]
+    }
+  },
+  "knows": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        351
+      ]
+    }
+  },
+  "hurt": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        360
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 2,
+      "positions": [
+        50,
+        105
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        71
+      ]
+    }
+  },
+  "change": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        364
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        152
+      ]
+    }
+  },
+  "analyze": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        368
+      ]
+    }
+  },
+  "expect": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        372
+      ]
+    }
+  },
+  "when": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 3,
+      "positions": [
+        379,
+        387,
+        395
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 3,
+      "positions": [
+        7,
+        59,
+        233
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        147
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        86
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        38,
+        100
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        28
+      ]
+    }
+  },
+  "happy": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        383
+      ]
+    }
+  },
+  "mad": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        391
+      ]
+    }
+  },
+  "miss": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        393
+      ]
+    }
+  },
+  "nonsense": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        402
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        261
+      ]
+    }
+  },
+  "wakes": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        404
+      ]
+    }
+  },
+  "brain": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        407
+      ]
+    }
+  },
+  "cells": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        408
+      ]
+    }
+  },
+  "fantasy": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        409
+      ]
+    }
+  },
+  "necessary": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        412
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        125
+      ]
+    }
+  },
+  "ingredient": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        413
+      ]
+    }
+  },
+  "living": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        415
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        185
+      ]
+    }
+  },
+  "gone": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        420
+      ]
+    }
+  },
+  "where": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        421,
+        433
+      ]
+    },
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        10
+      ]
+    }
+  },
+  "intended": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        423
+      ]
+    }
+  },
+  "ended": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        431
+      ]
+    }
+  },
+  "needed": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        435
+      ]
+    }
+  },
+  "opposite": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 4,
+      "positions": [
+        439,
+        449,
+        459,
+        470
+      ]
+    }
+  },
+  "indifference": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 4,
+      "positions": [
+        447,
+        457,
+        467,
+        478
+      ]
+    }
+  },
+  "art": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        451
+      ]
+    }
+  },
+  "ugliness": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        454
+      ]
+    }
+  },
+  "faith": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        461
+      ]
+    }
+  },
+  "heresy": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        464
+      ]
+    }
+  },
+  "death": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        475
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        84
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        219
+      ]
+    }
+  },
+  "lack": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 2,
+      "positions": [
+        483,
+        488
+      ]
+    }
+  },
+  "friendship": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        490
+      ]
+    }
+  },
+  "unhappy": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        493
+      ]
+    }
+  },
+  "marriages": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        494
+      ]
+    }
+  },
+  "books": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        498
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        104
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        159
+      ]
+    }
+  },
+  "sleepy": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        501
+      ]
+    }
+  },
+  "conscience": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        502
+      ]
+    }
+  },
+  "ideal": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        506
+      ]
+    }
+  },
+  "happens": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        511
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 3,
+      "positions": [
+        17,
+        28,
+        38
+      ]
+    }
+  },
+  "us": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        513
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        65
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        177
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        163
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        203
+      ]
+    }
+  },
+  "while": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        514
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        247
+      ]
+    }
+  },
+  "plans": {
+    "http://quotes.toscrape.com/page/2/": {
+      "count": 1,
+      "positions": [
+        519
+      ]
+    }
+  },
+  "knowing": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        4
+      ]
+    }
+  },
+  "from": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 3,
+      "positions": [
+        9,
+        126,
+        219
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        285,
+        290
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 3,
+      "positions": [
+        21,
+        25,
+        221
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        90
+      ]
+    }
+  },
+  "simply": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        14
+      ]
+    }
+  },
+  "problems": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        16
+      ]
+    }
+  },
+  "pride": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        18
+      ]
+    }
+  },
+  "way": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        24,
+        32
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        149
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        243
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        43
+      ]
+    }
+  },
+  "do": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        27
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 2,
+      "positions": [
+        67,
+        73
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        61
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 4,
+      "positions": [
+        6,
+        28,
+        44,
+        167
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        177,
+        201
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        199
+      ]
+    }
+  },
+  "any": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        30
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        114
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        94,
+        236
+      ]
+    }
+  },
+  "loving": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        34
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        19
+      ]
+    }
+  },
+  "which": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        38,
+        209
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        172
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        202
+      ]
+    }
+  },
+  "intimate": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        46,
+        57
+      ]
+    }
+  },
+  "hand": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        49,
+        55
+      ]
+    }
+  },
+  "upon": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        50
+      ]
+    }
+  },
+  "my": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        51,
+        54
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 4,
+      "positions": [
+        12,
+        26,
+        87,
+        93
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 3,
+      "positions": [
+        266,
+        270,
+        306
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        16
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        106,
+        153
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        40
+      ]
+    }
+  },
+  "chest": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        52
+      ]
+    }
+  },
+  "fall": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        61
+      ]
+    }
+  },
+  "asleep": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        62
+      ]
+    }
+  },
+  "eyes": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        64
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        95
+      ]
+    }
+  },
+  "close": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        65
+      ]
+    }
+  },
+  "minute": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        68
+      ]
+    }
+  },
+  "angry": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        71
+      ]
+    }
+  },
+  "lose": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        73
+      ]
+    }
+  },
+  "sixty": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        74
+      ]
+    }
+  },
+  "seconds": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        75
+      ]
+    }
+  },
+  "happiness": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        77
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        151
+      ]
+    }
+  },
+  "judge": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        80
+      ]
+    }
+  },
+  "people": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        81
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        20
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 3,
+      "positions": [
+        20,
+        42,
+        203
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        122
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        140
+      ]
+    }
+  },
+  "time": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 3,
+      "positions": [
+        85,
+        127,
+        129
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        7
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        35,
+        237
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        31
+      ]
+    }
+  },
+  "anyone": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        89
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        0
+      ]
+    }
+  },
+  "thinks": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        91
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        68
+      ]
+    }
+  },
+  "sitting": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        92,
+        104
+      ]
+    }
+  },
+  "church": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        94
+      ]
+    }
+  },
+  "christian": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        99
+      ]
+    }
+  },
+  "garage": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        107
+      ]
+    }
+  },
+  "car": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        112
+      ]
+    }
+  },
+  "eye": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        117,
+        139
+      ]
+    }
+  },
+  "beholder": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        120,
+        136
+      ]
+    }
+  },
+  "misinformed": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        135
+      ]
+    }
+  },
+  "black": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        138
+      ]
+    }
+  },
+  "today": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        140
+      ]
+    }
+  },
+  "truer": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        146
+      ]
+    }
+  },
+  "alive": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        153
+      ]
+    }
+  },
+  "youer": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        156
+      ]
+    }
+  },
+  "want": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        161,
+        173
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        99
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        45
+      ]
+    }
+  },
+  "children": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        163
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        134
+      ]
+    }
+  },
+  "intelligent": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        166,
+        178
+      ]
+    }
+  },
+  "read": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        167,
+        179
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 2,
+      "positions": [
+        4,
+        107
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        102
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        208
+      ]
+    }
+  },
+  "fairy": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        169,
+        182
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        188
+      ]
+    }
+  },
+  "tales": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 2,
+      "positions": [
+        170,
+        183
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        189
+      ]
+    }
+  },
+  "impossible": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        186
+      ]
+    }
+  },
+  "failing": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        190
+      ]
+    }
+  },
+  "something": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        192
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 3,
+      "positions": [
+        15,
+        26,
+        43
+      ]
+    }
+  },
+  "unless": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        193
+      ]
+    }
+  },
+  "cautiously": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        197
+      ]
+    }
+  },
+  "might": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        200
+      ]
+    },
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        144
+      ]
+    }
+  },
+  "lived": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        205
+      ]
+    }
+  },
+  "case": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        210
+      ]
+    }
+  },
+  "by": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        213
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        87
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        21
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        275
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        72
+      ]
+    }
+  },
+  "default": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        214
+      ]
+    }
+  },
+  "logic": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        215
+      ]
+    }
+  },
+  "z": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        222
+      ]
+    }
+  },
+  "imagination": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        223
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        15
+      ]
+    }
+  },
+  "everywhere": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        227
+      ]
+    }
+  },
+  "music": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        232
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 3,
+      "positions": [
+        84,
+        90,
+        98
+      ]
+    }
+  },
+  "hits": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        235
+      ]
+    }
+  },
+  "feel": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        238
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        75
+      ]
+    }
+  },
+  "pain": {
+    "http://quotes.toscrape.com/page/3/": {
+      "count": 1,
+      "positions": [
+        240
+      ]
+    }
+  },
+  "things": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 3,
+      "positions": [
+        7,
+        69,
+        75
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        52
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        89
+      ]
+    }
+  },
+  "learn": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        15
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        43
+      ]
+    }
+  },
+  "places": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        18
+      ]
+    }
+  },
+  "course": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        23
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        39
+      ]
+    }
+  },
+  "happening": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        26
+      ]
+    }
+  },
+  "inside": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        27
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        98
+      ]
+    }
+  },
+  "why": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        32
+      ]
+    }
+  },
+  "earth": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        34
+      ]
+    }
+  },
+  "should": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        35
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        36
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        12
+      ]
+    }
+  },
+  "real": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        42
+      ]
+    },
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        78
+      ]
+    }
+  },
+  "everyone": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        46
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 2,
+      "positions": [
+        106,
+        115
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        179
+      ]
+    }
+  },
+  "got": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        54
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        25
+      ]
+    }
+  },
+  "worth": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        59
+      ]
+    }
+  },
+  "suffering": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        60
+      ]
+    }
+  },
+  "small": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        74
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        56
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        155
+      ]
+    }
+  },
+  "organized": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        82
+      ]
+    }
+  },
+  "mind": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        83
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        37
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        157
+      ]
+    }
+  },
+  "next": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        88
+      ]
+    }
+  },
+  "adventure": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        90
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        54
+      ]
+    }
+  },
+  "need": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        93
+      ]
+    }
+  },
+  "little": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        98
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        125
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        165
+      ]
+    }
+  },
+  "chocolate": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        99
+      ]
+    }
+  },
+  "alone": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        113
+      ]
+    }
+  },
+  "fool": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        115
+      ]
+    }
+  },
+  "point": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        119
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        92
+      ]
+    }
+  },
+  "imagined": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        126
+      ]
+    }
+  },
+  "paradise": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        128
+      ]
+    }
+  },
+  "kind": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        132
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        282
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        63
+      ]
+    }
+  },
+  "library": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        134
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        118
+      ]
+    }
+  },
+  "late": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        139
+      ]
+    }
+  },
+  "been": {
+    "http://quotes.toscrape.com/page/4/": {
+      "count": 1,
+      "positions": [
+        146
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        174
+      ]
+    }
+  },
+  "reader": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        1
+      ]
+    }
+  },
+  "lives": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 3,
+      "positions": [
+        2,
+        5,
+        16
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        27
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        229
+      ]
+    }
+  },
+  "thousand": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        4
+      ]
+    }
+  },
+  "he": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        7
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        130
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        67
+      ]
+    }
+  },
+  "dies": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        8
+      ]
+    }
+  },
+  "said": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        9
+      ]
+    }
+  },
+  "jojen": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        10
+      ]
+    }
+  },
+  "reads": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        15
+      ]
+    }
+  },
+  "cup": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        24
+      ]
+    }
+  },
+  "large": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        27
+      ]
+    }
+  },
+  "enough": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 2,
+      "positions": [
+        28,
+        33
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        184
+      ]
+    }
+  },
+  "book": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        31
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        146
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 2,
+      "positions": [
+        84,
+        201
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        99
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 2,
+      "positions": [
+        112,
+        121
+      ]
+    }
+  },
+  "long": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        32
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        160
+      ]
+    }
+  },
+  "suit": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        35
+      ]
+    }
+  },
+  "me": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        36
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        72,
+        314
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 3,
+      "positions": [
+        80,
+        190,
+        198
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 2,
+      "positions": [
+        33,
+        38
+      ]
+    }
+  },
+  "lies": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        39
+      ]
+    }
+  },
+  "eventually": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        42
+      ]
+    }
+  },
+  "trust": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        45
+      ]
+    }
+  },
+  "anything": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        62
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        87
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        10
+      ]
+    }
+  },
+  "riding": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        66
+      ]
+    }
+  },
+  "bicycle": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        68
+      ]
+    }
+  },
+  "balance": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        72
+      ]
+    }
+  },
+  "moving": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        76
+      ]
+    }
+  },
+  "lover": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        79
+      ]
+    }
+  },
+  "thrill": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        85
+      ]
+    }
+  },
+  "kissing": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        88
+      ]
+    }
+  },
+  "forehead": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        90
+      ]
+    }
+  },
+  "into": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 2,
+      "positions": [
+        93,
+        99
+      ]
+    }
+  },
+  "staring": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        98
+      ]
+    }
+  },
+  "space": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        100
+      ]
+    }
+  },
+  "wise": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        102
+      ]
+    }
+  },
+  "girl": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        103
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        57
+      ]
+    }
+  },
+  "kisses": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        104
+      ]
+    }
+  },
+  "listens": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        109
+      ]
+    }
+  },
+  "leaves": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        115
+      ]
+    }
+  },
+  "left": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        119
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        56
+      ]
+    }
+  },
+  "darkness": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        123
+      ]
+    }
+  },
+  "see": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        126
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 2,
+      "positions": [
+        92,
+        169
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        304
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 3,
+      "positions": [
+        138,
+        271,
+        278
+      ]
+    }
+  },
+  "stars": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        128
+      ]
+    }
+  },
+  "someone": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        133
+      ]
+    },
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        65
+      ]
+    }
+  },
+  "born": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        135
+      ]
+    }
+  },
+  "grow": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        139
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        59
+      ]
+    }
+  },
+  "does": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 2,
+      "positions": [
+        143,
+        155
+      ]
+    }
+  },
+  "begin": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        145
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        246
+      ]
+    }
+  },
+  "end": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        147
+      ]
+    }
+  },
+  "seem": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        151
+      ]
+    }
+  },
+  "battle": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        159
+      ]
+    }
+  },
+  "war": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        163
+      ]
+    }
+  },
+  "growing": {
+    "http://quotes.toscrape.com/page/5/": {
+      "count": 1,
+      "positions": [
+        167
+      ]
+    }
+  },
+  "would": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 2,
+      "positions": [
+        4,
+        75
+      ]
+    }
+  },
+  "those": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        8
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        172,
+        189
+      ]
+    }
+  },
+  "really": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        11
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        78
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        125
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 2,
+      "positions": [
+        65,
+        82
+      ]
+    }
+  },
+  "notion": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        17
+      ]
+    }
+  },
+  "halves": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        22
+      ]
+    }
+  },
+  "nature": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        27
+      ]
+    }
+  },
+  "scares": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        34
+      ]
+    }
+  },
+  "am": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 3,
+      "positions": [
+        37,
+        48,
+        53
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        172
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        144
+      ]
+    }
+  },
+  "an": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        41
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        21,
+        116
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        35
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        116
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        51
+      ]
+    }
+  },
+  "angel": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        42
+      ]
+    }
+  },
+  "sin": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        45
+      ]
+    }
+  },
+  "devil": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        51
+      ]
+    }
+  },
+  "big": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        60
+      ]
+    },
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        297
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        53
+      ]
+    }
+  },
+  "were": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        70
+      ]
+    }
+  },
+  "physicist": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        73
+      ]
+    }
+  },
+  "probably": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        76
+      ]
+    }
+  },
+  "musician": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        79
+      ]
+    }
+  },
+  "often": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 2,
+      "positions": [
+        81,
+        156
+      ]
+    }
+  },
+  "daydreams": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        88
+      ]
+    }
+  },
+  "terms": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        96
+      ]
+    }
+  },
+  "reading": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        109
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        91
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        87,
+        187
+      ]
+    }
+  },
+  "difference": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        120
+      ]
+    }
+  },
+  "between": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        121
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        45
+      ]
+    }
+  },
+  "stupidity": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        124
+      ]
+    }
+  },
+  "its": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        128
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        253
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        171
+      ]
+    }
+  },
+  "limits": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        129
+      ]
+    }
+  },
+  "drug": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        134
+      ]
+    }
+  },
+  "bella": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        137
+      ]
+    }
+  },
+  "friend": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        141
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        103
+      ]
+    }
+  },
+  "loyal": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        143
+      ]
+    }
+  },
+  "door": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 2,
+      "positions": [
+        149,
+        164
+      ]
+    }
+  },
+  "closes": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        152
+      ]
+    }
+  },
+  "another": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        153
+      ]
+    }
+  },
+  "opens": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        154
+      ]
+    }
+  },
+  "look": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        158
+      ]
+    }
+  },
+  "closed": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        163
+      ]
+    }
+  },
+  "opened": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        175
+      ]
+    }
+  },
+  "isn": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        179
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        183
+      ]
+    }
+  },
+  "finding": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        182
+      ]
+    }
+  },
+  "creating": {
+    "http://quotes.toscrape.com/page/6/": {
+      "count": 1,
+      "positions": [
+        187
+      ]
+    }
+  },
+  "problem": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        3
+      ]
+    }
+  },
+  "drinking": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        5
+      ]
+    }
+  },
+  "thought": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        7
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        9
+      ]
+    }
+  },
+  "poured": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        10
+      ]
+    }
+  },
+  "myself": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        11
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        131
+      ]
+    }
+  },
+  "drink": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 4,
+      "positions": [
+        13,
+        19,
+        30,
+        40
+      ]
+    }
+  },
+  "bad": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        16
+      ]
+    }
+  },
+  "attempt": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        22
+      ]
+    }
+  },
+  "forget": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 3,
+      "positions": [
+        24,
+        48,
+        232
+      ]
+    }
+  },
+  "order": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        32
+      ]
+    }
+  },
+  "celebrate": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        34
+      ]
+    }
+  },
+  "happen": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        44
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        123
+      ]
+    }
+  },
+  "face": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        50
+      ]
+    }
+  },
+  "was": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        55
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        100
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        60
+      ]
+    }
+  },
+  "hope": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        58
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        158
+      ]
+    }
+  },
+  "madly": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        62
+      ]
+    }
+  },
+  "right": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        69
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        59
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        48
+      ]
+    }
+  },
+  "kiss": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        71
+      ]
+    }
+  },
+  "anytime": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        73
+      ]
+    }
+  },
+  "vulnerable": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        85,
+        169
+      ]
+    }
+  },
+  "wrung": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        93
+      ]
+    }
+  },
+  "possibly": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        95
+      ]
+    }
+  },
+  "broken": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        96,
+        157
+      ]
+    }
+  },
+  "sure": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        102
+      ]
+    }
+  },
+  "keeping": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        104
+      ]
+    }
+  },
+  "intact": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        106
+      ]
+    }
+  },
+  "even": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        115
+      ]
+    }
+  },
+  "animal": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        117
+      ]
+    }
+  },
+  "wrap": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        118
+      ]
+    }
+  },
+  "carefully": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        120
+      ]
+    }
+  },
+  "round": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        121
+      ]
+    }
+  },
+  "hobbies": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        123
+      ]
+    }
+  },
+  "luxuries": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        126
+      ]
+    }
+  },
+  "avoid": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        127
+      ]
+    }
+  },
+  "entanglements": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        129
+      ]
+    }
+  },
+  "lock": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        130
+      ]
+    }
+  },
+  "safe": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        133,
+        146
+      ]
+    }
+  },
+  "casket": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        136,
+        145
+      ]
+    }
+  },
+  "coffin": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        138
+      ]
+    }
+  },
+  "selfishness": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        141
+      ]
+    }
+  },
+  "dark": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        147
+      ]
+    }
+  },
+  "motionless": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        148
+      ]
+    }
+  },
+  "airless": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        149
+      ]
+    }
+  },
+  "unbreakable": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        161
+      ]
+    }
+  },
+  "impenetrable": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        162
+      ]
+    }
+  },
+  "irredeemable": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        163
+      ]
+    }
+  },
+  "wander": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        174
+      ]
+    }
+  },
+  "lost": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        176
+      ]
+    }
+  },
+  "pity": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        179,
+        183
+      ]
+    }
+  },
+  "dead": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        181
+      ]
+    }
+  },
+  "above": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        187
+      ]
+    }
+  },
+  "writing": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        198
+      ]
+    }
+  },
+  "sit": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        203
+      ]
+    }
+  },
+  "down": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        204
+      ]
+    }
+  },
+  "typewriter": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        207
+      ]
+    }
+  },
+  "bleed": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        209
+      ]
+    }
+  },
+  "finish": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        210
+      ]
+    }
+  },
+  "each": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        211
+      ]
+    }
+  },
+  "done": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 2,
+      "positions": [
+        215,
+        220
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        90
+      ]
+    }
+  },
+  "could": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        223
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 2,
+      "positions": [
+        13,
+        108
+      ]
+    }
+  },
+  "blunders": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        225
+      ]
+    }
+  },
+  "absurdities": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        227
+      ]
+    }
+  },
+  "doubt": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        229
+      ]
+    }
+  },
+  "crept": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        230
+      ]
+    }
+  },
+  "soon": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        235
+      ]
+    }
+  },
+  "tomorrow": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        239
+      ]
+    }
+  },
+  "new": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        242
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        11
+      ]
+    }
+  },
+  "shall": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        245
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        109
+      ]
+    }
+  },
+  "serenely": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        248
+      ]
+    }
+  },
+  "spirit": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        254
+      ]
+    }
+  },
+  "encumbered": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        257
+      ]
+    }
+  },
+  "schooling": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        267
+      ]
+    }
+  },
+  "interfere": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        268
+      ]
+    }
+  },
+  "education": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        271
+      ]
+    }
+  },
+  "heard": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        274
+      ]
+    }
+  },
+  "troubles": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 3,
+      "positions": [
+        277,
+        307,
+        312
+      ]
+    }
+  },
+  "ahead": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        286
+      ]
+    }
+  },
+  "behind": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        291
+      ]
+    }
+  },
+  "bought": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        295
+      ]
+    }
+  },
+  "bat": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        298
+      ]
+    }
+  },
+  "m": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        300
+      ]
+    },
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 3,
+      "positions": [
+        135,
+        147,
+        152
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        20
+      ]
+    }
+  },
+  "ready": {
+    "http://quotes.toscrape.com/page/7/": {
+      "count": 1,
+      "positions": [
+        302
+      ]
+    }
+  },
+  "had": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        2
+      ]
+    }
+  },
+  "flower": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        4
+      ]
+    }
+  },
+  "walk": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        14
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        103
+      ]
+    }
+  },
+  "garden": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        17
+      ]
+    }
+  },
+  "forever": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        18
+      ]
+    }
+  },
+  "crazy": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        23
+      ]
+    }
+  },
+  "horrible": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        26
+      ]
+    }
+  },
+  "lead": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        30
+      ]
+    }
+  },
+  "trouble": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        32
+      ]
+    }
+  },
+  "having": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        34
+      ]
+    }
+  },
+  "open": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        36
+      ]
+    }
+  },
+  "insist": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        44
+      ]
+    }
+  },
+  "coming": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        46
+      ]
+    }
+  },
+  "along": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        47
+      ]
+    }
+  },
+  "put": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        51
+      ]
+    }
+  },
+  "low": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        62
+      ]
+    }
+  },
+  "oh": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        66
+      ]
+    }
+  },
+  "knocks": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        79
+      ]
+    }
+  },
+  "out": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        81
+      ]
+    },
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        213
+      ]
+    }
+  },
+  "wish": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        94
+      ]
+    }
+  },
+  "author": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        96
+      ]
+    }
+  },
+  "wrote": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        98
+      ]
+    }
+  },
+  "terrific": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        102
+      ]
+    }
+  },
+  "yours": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        105
+      ]
+    }
+  },
+  "call": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        109
+      ]
+    }
+  },
+  "him": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        110
+      ]
+    }
+  },
+  "phone": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        114
+      ]
+    }
+  },
+  "whenever": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        115
+      ]
+    }
+  },
+  "felt": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        117
+      ]
+    }
+  },
+  "reason": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        127
+      ]
+    }
+  },
+  "talk": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        129
+      ]
+    }
+  },
+  "whose": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        139
+      ]
+    }
+  },
+  "answers": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        140
+      ]
+    }
+  },
+  "accept": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        142
+      ]
+    }
+  },
+  "dreamer": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        149
+      ]
+    }
+  },
+  "someday": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        159
+      ]
+    }
+  },
+  "join": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        162
+      ]
+    }
+  },
+  "free": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        173
+      ]
+    }
+  },
+  "prejudice": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        176
+      ]
+    }
+  },
+  "equally": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        180
+      ]
+    }
+  },
+  "question": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        182
+      ]
+    }
+  },
+  "stop": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        197
+      ]
+    }
+  },
+  "classic": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        199
+      ]
+    }
+  },
+  "praise": {
+    "http://quotes.toscrape.com/page/8/": {
+      "count": 1,
+      "positions": [
+        204
+      ]
+    }
+  },
+  "made": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        4
+      ]
+    }
+  },
+  "mistake": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        6
+      ]
+    }
+  },
+  "tried": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        9
+      ]
+    }
+  },
+  "very": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        17
+      ]
+    }
+  },
+  "rapid": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        18
+      ]
+    }
+  },
+  "jumps": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        20
+      ]
+    }
+  },
+  "admiration": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        22
+      ]
+    }
+  },
+  "matrimony": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        28
+      ]
+    }
+  },
+  "moment": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        31
+      ]
+    }
+  },
+  "choice": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        44
+      ]
+    }
+  },
+  "easy": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        52
+      ]
+    }
+  },
+  "happened": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        55
+      ]
+    }
+  },
+  "boy": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        58
+      ]
+    }
+  },
+  "brave": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        65
+      ]
+    }
+  },
+  "strayed": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        68
+      ]
+    }
+  },
+  "across": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        69
+      ]
+    }
+  },
+  "path": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        71
+      ]
+    }
+  },
+  "lord": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        73
+      ]
+    }
+  },
+  "voldemort": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        74
+      ]
+    }
+  },
+  "cedric": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        76
+      ]
+    }
+  },
+  "diggory": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        77
+      ]
+    }
+  },
+  "declare": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        79
+      ]
+    }
+  },
+  "after": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        80
+      ]
+    }
+  },
+  "enjoyment": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        85
+      ]
+    }
+  },
+  "sooner": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        90
+      ]
+    }
+  },
+  "tires": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        92
+      ]
+    }
+  },
+  "house": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        104
+      ]
+    }
+  },
+  "own": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        107
+      ]
+    }
+  },
+  "miserable": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        111
+      ]
+    }
+  },
+  "excellent": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        117
+      ]
+    }
+  },
+  "few": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        121
+      ]
+    }
+  },
+  "whom": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        123,
+        131
+      ]
+    }
+  },
+  "still": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        128
+      ]
+    }
+  },
+  "fewer": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        129
+      ]
+    }
+  },
+  "dissatisfied": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        146
+      ]
+    }
+  },
+  "confirms": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        152
+      ]
+    }
+  },
+  "belief": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        154
+      ]
+    }
+  },
+  "inconsistency": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        157
+      ]
+    }
+  },
+  "characters": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        161
+      ]
+    }
+  },
+  "dependence": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        166
+      ]
+    }
+  },
+  "placed": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        170
+      ]
+    }
+  },
+  "appearance": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        173
+      ]
+    }
+  },
+  "merit": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        175
+      ]
+    }
+  },
+  "sense": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        177
+      ]
+    }
+  },
+  "start": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        186
+      ]
+    }
+  },
+  "necessarily": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        194
+      ]
+    }
+  },
+  "doubting": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        195
+      ]
+    }
+  },
+  "god": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        197
+      ]
+    }
+  },
+  "wondering": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        206
+      ]
+    }
+  },
+  "painful": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        208
+      ]
+    }
+  },
+  "turn": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        212
+      ]
+    }
+  },
+  "fear": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 2,
+      "positions": [
+        217,
+        223
+      ]
+    }
+  },
+  "follows": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        220
+      ]
+    }
+  },
+  "fully": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        230
+      ]
+    }
+  },
+  "prepared": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        232
+      ]
+    }
+  },
+  "die": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        234
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 3,
+      "positions": [
+        27,
+        35,
+        48
+      ]
+    }
+  },
+  "lie": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        239
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        79
+      ]
+    }
+  },
+  "travel": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        241
+      ]
+    }
+  },
+  "around": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        244
+      ]
+    },
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        104
+      ]
+    }
+  },
+  "putting": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        251
+      ]
+    }
+  },
+  "shoes": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        254
+      ]
+    }
+  },
+  "christianity": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        258
+      ]
+    }
+  },
+  "sun": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        264
+      ]
+    }
+  },
+  "risen": {
+    "http://quotes.toscrape.com/page/9/": {
+      "count": 1,
+      "positions": [
+        266
+      ]
+    }
+  },
+  "dumbledore": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        2
+      ]
+    }
+  },
+  "sighed": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        3
+      ]
+    }
+  },
+  "terrible": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        9
+      ]
+    }
+  },
+  "therefore": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        13
+      ]
+    }
+  },
+  "treated": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        15
+      ]
+    }
+  },
+  "caution": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        18
+      ]
+    }
+  },
+  "awfully": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        52
+      ]
+    }
+  },
+  "courage": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        57
+      ]
+    }
+  },
+  "comforted": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        76
+      ]
+    }
+  },
+  "consider": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        88
+      ]
+    }
+  },
+  "his": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 2,
+      "positions": [
+        91,
+        100
+      ]
+    }
+  },
+  "view": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        94
+      ]
+    }
+  },
+  "climb": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        97
+      ]
+    }
+  },
+  "skin": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        101
+      ]
+    }
+  },
+  "write": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 2,
+      "positions": [
+        110,
+        131
+      ]
+    }
+  },
+  "wants": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        114
+      ]
+    }
+  },
+  "written": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        117
+      ]
+    }
+  },
+  "difficult": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        125
+      ]
+    }
+  },
+  "grown": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        127
+      ]
+    }
+  },
+  "ups": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        128
+      ]
+    }
+  },
+  "tell": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        136
+      ]
+    }
+  },
+  "worthy": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        144
+      ]
+    }
+  },
+  "needs": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 2,
+      "positions": [
+        158,
+        163
+      ]
+    }
+  },
+  "sword": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        162
+      ]
+    }
+  },
+  "whetstone": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        165
+      ]
+    }
+  },
+  "edge": {
+    "http://quotes.toscrape.com/page/10/": {
+      "count": 1,
+      "positions": [
+        172
+      ]
+    }
+  }
+}
