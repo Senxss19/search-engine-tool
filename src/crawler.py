@@ -3,6 +3,8 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 class Crawler:
     def __init__(self, base_url, delay=6):
@@ -16,7 +18,9 @@ class Crawler:
     def fetch_page(self, url):
         elapsed = time.time() - self.last_request_time
         if elapsed < self.delay:
-            time.sleep(self.delay - elapsed)
+            sleep_time = self.delay - elapsed
+            if sleep_time > 0:
+                time.sleep(sleep_time)
 
         headers = {"User-Agent": "Mozilla/5.0"}
         retries = 3
@@ -27,7 +31,7 @@ class Crawler:
                     url,
                     headers=headers,
                     timeout=20,
-                    verify=False
+                    verify=True
                 )
                 response.raise_for_status()
                 self.last_request_time = time.time()
