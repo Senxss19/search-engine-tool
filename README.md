@@ -3,7 +3,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/Senxss19/search-engine-tool?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Senxss19/search-engine-tool?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/Senxss19/search-engine-tool)
-![GitHub license](https://img.shields.io/github/license/Senxss19/search-engine-tool)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ![Python](https://img.shields.io/badge/python-3.12-blue)
 ![pytest](https://img.shields.io/badge/tests-pytest-green)
