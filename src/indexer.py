@@ -8,8 +8,23 @@ class Indexer:
     """
 
     def __init__(self):
-        # Structure: word -> url -> {count, positions}
-        self.index = defaultdict(lambda: defaultdict(lambda: {"count": 0, "positions": []}))
+        """"
+        Structure:
+        word -> {
+            "df": document_frequency,
+            "docs": {
+                url: {
+                    "tf": term_frequency,
+                    "positions": [...]
+                }
+            }
+        }
+        """
+        self.index = defaultdict(lambda: {
+            "df": 0,
+            "docs": defaultdict(lambda: {"tf": 0, "positions": []})
+        })
+        self.doc_count = 0
 
     def tokenize(self, text):
         """
@@ -26,10 +41,18 @@ class Indexer:
         Add a page's content to the index.
         """
         words = self.tokenize(text)
+        seen_words = set()
 
-        for position, word in enumerate(words):
-            self.index[word][url]["count"] += 1
-            self.index[word][url]["positions"].append(position)
+        for pos, word in enumerate(words):
+            entry = self.index[word]["docs"][url]
+            entry["tf"] += 1
+            entry["positions"].append(pos)
+
+            if word not in seen_words:
+                self.index[word]["df"] += 1
+                seen_words.add(word)
+
+        self.doc_count += 1
 
     def build_index(self, pages):
         """
