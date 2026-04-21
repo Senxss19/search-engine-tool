@@ -1,5 +1,5 @@
 # 🔍 Search Engine Tool  
-![CI](https://github.com/Senxss19/search-engine-tool/actions/workflows/test.yml/badge.svg)
+[![CI](https://github.com/Senxss19/search-engine-tool/actions/workflows/test.yml/badge.svg)](https://github.com/Senxss19/search-engine-tool/actions)
 ![GitHub stars](https://img.shields.io/github/stars/Senxss19/search-engine-tool?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Senxss19/search-engine-tool?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/Senxss19/search-engine-tool)
@@ -65,8 +65,6 @@ The system is designed to simulate how real-world search engines process and ret
 ## 🏗️ System Architecture
 
 ```
-
-```
     +-------------+
     |  Crawler    |
     +-------------+
@@ -82,8 +80,6 @@ The system is designed to simulate how real-world search engines process and ret
     +-------------+
     |    CLI      |
     +-------------+
-```
-
 ```
 
 ---
