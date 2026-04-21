@@ -1,7 +1,7 @@
 import json
-from crawler import Crawler
-from indexer import Indexer
-from search import SearchEngine
+from src.crawler import Crawler
+from src.indexer import Indexer
+from src.search import SearchEngine
 
 INDEX_FILE = "data/index.json"
 META_FILE = "data/meta.json"
@@ -25,18 +25,20 @@ def build():
 
 
 def load():
+    """
+    Load index from file system.
+    Returns:
+        (index, metadata)
+    """
     try:
-        with open(INDEX_FILE) as f:
-            index = json.load(f)
-
-        with open(META_FILE) as f:
-            meta = json.load(f)
+        with open(INDEX_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
 
         print("Index loaded.")
-        return index, meta["doc_count"]
+        return data, {}   # keep interface consistent
 
-    except:
-        print("Run build first.")
+    except FileNotFoundError:
+        print("Index file not found. Run 'build' first.")
         return None, None
 
 

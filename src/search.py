@@ -18,8 +18,16 @@ class SearchEngine:
     # TF-IDF
     # -------------------------
     def compute_tfidf(self, word, url):
+        """
+        Safe TF-IDF computation.
+        Returns 0 if the word does not appear in the document.
+        """
+        if url not in self.index[word]["docs"]:
+            return 0
+
         tf = self.index[word]["docs"][url]["tf"]
         df = self.index[word]["df"]
+
         idf = math.log((self.total_docs + 1) / (df + 1)) + 1
         return tf * idf
 
@@ -72,46 +80,93 @@ class SearchEngine:
             print(f"  tf: {data['tf']}")
             print(f"  positions: {data['positions']}")
 
-    # -------------------------
-    # Search
-    # -------------------------
     def find(self, query):
+        """
+        Search documents based on query.
+
+        Supports:
+        - AND / OR queries
+        - Phrase search
+        - TF-IDF ranking
+        """
+
+        # -------------------------
+        # 1. Validate input
+        # -------------------------
         if not query.strip():
             print("Empty query.")
             return
 
+        # -------------------------
+        # 2. Parse query
+        # -------------------------
         mode, words = self.parse_query(query)
         words = [w.lower() for w in words]
 
-        # collect candidate urls
+        # remove duplicates to avoid redundant computation
+        words = list(set(words))
+
+        # -------------------------
+        # 3. Collect candidate URLs
+        # -------------------------
         url_sets = []
+
         for word in words:
             if word not in self.index:
                 print("No results found.")
                 return
-            url_sets.append(set(self.index[word]["docs"].keys()))
 
-        if mode == "AND" or mode == "PHRASE":
+            urls = set(self.index[word]["docs"].keys())
+            url_sets.append(urls)
+
+        # -------------------------
+        # 4. Combine results
+        # -------------------------
+        if mode in ["AND", "PHRASE"]:
             results = set.intersection(*url_sets)
         elif mode == "OR":
             results = set.union(*url_sets)
+        else:
+            results = set()
 
-        # phrase filtering
+        # -------------------------
+        # 5. Phrase filtering
+        # -------------------------
         if mode == "PHRASE":
-            results = {url for url in results if self.phrase_match(words, url)}
+            results = {
+                url for url in results
+                if self.phrase_match(words, url)
+            }
 
+        # -------------------------
+        # 6. Handle no results
+        # -------------------------
         if not results:
             print("No results found.")
             return
 
-        # ranking
+        # -------------------------
+        # 7. Ranking (TF-IDF)
+        # -------------------------
         scored = []
+
         for url in results:
-            score = sum(self.compute_tfidf(w, url) for w in words)
+            score = 0
+
+            for word in words:
+                # safe TF-IDF (avoid KeyError)
+                if url in self.index[word]["docs"]:
+                    score += self.compute_tfidf(word, url)
+
             scored.append((url, score))
 
+        # sort by score descending
         scored.sort(key=lambda x: x[1], reverse=True)
 
+        # -------------------------
+        # 8. Output results
+        # -------------------------
         print("\n=== Results ===")
+
         for url, score in scored:
             print(f"{url} (score={score:.4f})")
