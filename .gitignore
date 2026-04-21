@@ -15,3 +15,6 @@ ENV/
 
 # system file
 .DS_Store
+
+# test file
+.coverage
