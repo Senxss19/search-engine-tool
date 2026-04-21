@@ -284,14 +284,15 @@ Using GenAI accelerated development but required critical evaluation to ensure c
 
 This project follows **Semantic Versioning (SemVer)**:
 
-- v1.0.0 – Initial implementation (crawler, index, basic search)
-- v1.1.0 – Added TF-IDF ranking, boolean queries, and phrase search
 - v2.0.0 – Improved testing, coverage (>90%), and system robustness
+- v1.1.0 – Added TF-IDF ranking, boolean queries, and phrase search
+- v1.0.0 – Initial implementation (crawler, index, basic search)
 
 Releases are available on GitHub:
-- v2.0.0: https://github.com/Senxss19/search-engine-tool/releases/tag/v2.0.0
-- v1.1.0: https://github.com/Senxss19/search-engine-tool/releases/tag/v1.1.0
-- v1.0.0: https://github.com/Senxss19/search-engine-tool/releases/tag/v1.0.0
+
+- [v2.0.0](https://github.com/Senxss19/search-engine-tool/releases/tag/v2.0.0)
+- [v1.1.0](https://github.com/Senxss19/search-engine-tool/releases/tag/v1.1.0)
+- [v1.0.0](https://github.com/Senxss19/search-engine-tool/releases/tag/v1.0.0)
 
 ---
 
