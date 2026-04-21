@@ -286,14 +286,21 @@ Using GenAI accelerated development but required critical evaluation to ensure c
 
 ## 🏷️ Versioning
 
-This project follows semantic versioning:
+This project follows **Semantic Versioning (SemVer)**:
 
-* v1.0.0 – Initial release
+- v1.0.0 – Initial implementation (crawler, index, basic search)
+- v1.1.0 – Added TF-IDF ranking, boolean queries, and phrase search
+- v2.0.0 – Improved testing, coverage (>90%), and system robustness
+
+Releases are available on GitHub:
+- v2.0.0: https://github.com/Senxss19/search-engine-tool/releases/tag/v2.0.0
+- v1.1.0: https://github.com/Senxss19/search-engine-tool/releases/tag/v1.1.0
+- v1.0.0: https://github.com/Senxss19/search-engine-tool/releases/tag/v1.0.0
 
 ---
 
 ## 📜 License
 
-This project is for academic purposes.
+This project is licensed under the MIT License.
 
-```
+You are free to use, modify, and distribute this software with proper attribution.
