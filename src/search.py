@@ -20,7 +20,7 @@ class SearchEngine:
     def compute_tfidf(self, word, url):
         tf = self.index[word]["docs"][url]["tf"]
         df = self.index[word]["df"]
-        idf = math.log(self.total_docs / (1 + df))
+        idf = math.log((self.total_docs + 1) / (df + 1)) + 1
         return tf * idf
 
     # -------------------------
@@ -76,6 +76,10 @@ class SearchEngine:
     # Search
     # -------------------------
     def find(self, query):
+        if not query.strip():
+            print("Empty query.")
+            return
+
         mode, words = self.parse_query(query)
         words = [w.lower() for w in words]
 
