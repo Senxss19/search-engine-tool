@@ -4,69 +4,66 @@ from indexer import Indexer
 from search import SearchEngine
 
 INDEX_FILE = "data/index.json"
+META_FILE = "data/meta.json"
 BASE_URL = "https://quotes.toscrape.com/"
 
 
 def build():
-    """
-    Crawl website and build index.
-    """
     crawler = Crawler(BASE_URL)
     pages = crawler.crawl()
 
     indexer = Indexer()
-    index = indexer.build_index(pages)
+    index, doc_count = indexer.build_index(pages)
 
-    with open(INDEX_FILE, "w", encoding="utf-8") as f:
-        json.dump(index, f, indent=2)
+    with open(INDEX_FILE, "w") as f:
+        json.dump(index, f)
 
-    print("Index built and saved.")
+    with open(META_FILE, "w") as f:
+        json.dump({"doc_count": doc_count}, f)
+
+    print("Index built.")
 
 
 def load():
-    """
-    Load index from file.
-    """
     try:
-        with open(INDEX_FILE, "r", encoding="utf-8") as f:
+        with open(INDEX_FILE) as f:
             index = json.load(f)
+
+        with open(META_FILE) as f:
+            meta = json.load(f)
+
         print("Index loaded.")
-        return index
-    except FileNotFoundError:
-        print("Index file not found. Run 'build' first.")
-        return None
+        return index, meta["doc_count"]
+
+    except:
+        print("Run build first.")
+        return None, None
 
 
 def main():
-    index = None
     engine = None
 
     while True:
-        command = input("> ").strip()
+        cmd = input("> ").strip()
 
-        if command == "build":
+        if cmd == "build":
             build()
 
-        elif command == "load":
-            index = load()
+        elif cmd == "load":
+            index, doc_count = load()
             if index:
-                engine = SearchEngine(index)
+                engine = SearchEngine(index, doc_count)
 
-        elif command.startswith("print "):
-            if not engine:
-                print("Load index first.")
-                continue
-            word = command.split(" ", 1)[1]
-            engine.print_word(word)
+        elif cmd.startswith("print "):
+            engine.print_word(cmd.split(" ", 1)[1])
 
-        elif command.startswith("find "):
-            if not engine:
-                print("Load index first.")
-                continue
-            query = command.split(" ", 1)[1]
-            engine.find(query)
+        elif cmd.startswith("find "):
+            engine.find(cmd.split(" ", 1)[1])
 
-        elif command == "exit":
+        elif cmd.startswith("suggest "):
+            print(engine.suggest(cmd.split(" ", 1)[1]))
+
+        elif cmd == "exit":
             break
 
         else:

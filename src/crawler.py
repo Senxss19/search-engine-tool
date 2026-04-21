@@ -6,7 +6,13 @@ from urllib.parse import urljoin
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
+
 class Crawler:
+    """
+    Responsible for crawling web pages with a politeness delay.
+    Extracts textual content (quotes) and follows pagination links.
+    """
+
     def __init__(self, base_url, delay=6):
         self.base_url = base_url
         self.delay = delay
@@ -16,30 +22,24 @@ class Crawler:
         self.session.trust_env = False  # disable proxy
 
     def fetch_page(self, url):
+        """
+        Fetch a web page with politeness delay and retry logic.
+        """
         elapsed = time.time() - self.last_request_time
         if elapsed < self.delay:
-            sleep_time = self.delay - elapsed
-            if sleep_time > 0:
-                time.sleep(sleep_time)
+            time.sleep(self.delay - elapsed)
 
         headers = {"User-Agent": "Mozilla/5.0"}
-        retries = 3
 
-        for attempt in range(retries):
+        for attempt in range(3):
             try:
-                response = self.session.get(
-                    url,
-                    headers=headers,
-                    timeout=20,
-                    verify=True
-                )
+                response = self.session.get(url, headers=headers, timeout=20)
                 response.raise_for_status()
                 self.last_request_time = time.time()
                 return response.text
 
             except requests.exceptions.Timeout:
                 print(f"[Retry {attempt+1}] Timeout: {url}")
-
             except requests.RequestException as e:
                 print(f"Error: {url} -> {e}")
                 break
@@ -47,11 +47,17 @@ class Crawler:
         return None
 
     def extract_quotes(self, html):
+        """
+        Extract quotes text from HTML page.
+        """
         soup = BeautifulSoup(html, "html.parser")
         quotes = soup.find_all("span", class_="text")
         return [q.get_text() for q in quotes]
 
     def find_next_page(self, html, current_url):
+        """
+        Find next page URL for pagination.
+        """
         soup = BeautifulSoup(html, "html.parser")
         next_btn = soup.find("li", class_="next")
         if next_btn:
@@ -59,6 +65,11 @@ class Crawler:
         return None
 
     def crawl(self):
+        """
+        Crawl all pages starting from base_url.
+        Returns:
+            dict: {url: page_text}
+        """
         pages = {}
         current_url = self.base_url
 
@@ -67,7 +78,6 @@ class Crawler:
             html = self.fetch_page(current_url)
 
             if not html:
-                print(f"Skipping {current_url}")
                 break
 
             text = " ".join(self.extract_quotes(html))

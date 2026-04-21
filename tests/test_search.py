@@ -1,6 +1,5 @@
 from src.search import SearchEngine
 
-
 def mock_index():
     return {
         "good": {
@@ -50,3 +49,18 @@ def test_empty_query(capsys):
     engine = SearchEngine(mock_index())
     engine.find("")
     assert "Empty query" in capsys.readouterr().out
+
+def test_tfidf():
+    index = {
+        "hello": {
+            "df": 1,
+            "docs": {
+                "url1": {"tf": 2, "positions": [0, 3]}
+            }
+        }
+    }
+
+    engine = SearchEngine(index, total_docs=2)
+
+    score = engine.compute_tfidf("hello", "url1")
+    assert score > 0
