@@ -4,39 +4,51 @@ from collections import defaultdict
 
 class Indexer:
     """
-    Responsible for building the inverted index.
+    Builds an inverted index with:
+    - term frequency (tf)
+    - document frequency (df)
+    - positional information
     """
 
     def __init__(self):
-        # Structure: word -> url -> {count, positions}
-        self.index = defaultdict(lambda: defaultdict(lambda: {"count": 0, "positions": []}))
+        self.index = defaultdict(lambda: {
+            "df": 0,
+            "docs": defaultdict(lambda: {"tf": 0, "positions": []})
+        })
+        self.doc_count = 0
 
     def tokenize(self, text):
         """
-        Convert text into normalized tokens.
-        - Lowercase
-        - Remove punctuation
+        Normalize text into tokens:
+        - lowercase
+        - remove punctuation
         """
         text = text.lower()
-        words = re.findall(r"\b[a-z]+\b", text)
-        return words
+        return re.findall(r"\b[a-z]+\b", text)
 
     def add_page(self, url, text):
         """
-        Add a page's content to the index.
+        Add a single page to the index.
         """
         words = self.tokenize(text)
+        seen = set()
 
-        for position, word in enumerate(words):
-            self.index[word][url]["count"] += 1
-            self.index[word][url]["positions"].append(position)
+        for pos, word in enumerate(words):
+            entry = self.index[word]["docs"][url]
+            entry["tf"] += 1
+            entry["positions"].append(pos)
+
+            if word not in seen:
+                self.index[word]["df"] += 1
+                seen.add(word)
+
+        self.doc_count += 1
 
     def build_index(self, pages):
         """
         Build index from all pages.
-        pages: dict {url: text}
         """
         for url, text in pages.items():
             self.add_page(url, text)
 
-        return self.index
+        return self.index, self.doc_count
