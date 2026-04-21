@@ -1,6 +1,16 @@
 from src.crawler import Crawler
 from unittest.mock import patch
 
+@patch("src.crawler.requests.Session.get")
+def test_fetch_page(mock_get):
+    mock_get.return_value.status_code = 200
+    mock_get.return_value.text = "<html></html>"
+
+    crawler = Crawler("http://test.com", delay=0)
+    html = crawler.fetch_page("http://test.com")
+
+    assert html is not None
+
 def test_extract_quotes_single():
     """
     Test extracting a single quote from HTML.
@@ -82,3 +92,19 @@ def test_fetch_page_mock():
         result = crawler.fetch_page("http://dummy.com")
 
         assert result == "<html>OK</html>"
+
+def test_extract_quotes():
+    html = '<span class="text">Hello world</span>'
+    crawler = Crawler("http://test.com", delay=0)
+
+    quotes = crawler.extract_quotes(html)
+    assert quotes == ["Hello world"]
+
+
+def test_find_next_page():
+    html = '<li class="next"><a href="/page/2/">Next</a></li>'
+    crawler = Crawler("http://test.com", delay=0)
+
+    next_url = crawler.find_next_page(html, "http://test.com")
+    assert "page/2" in next_url
+
