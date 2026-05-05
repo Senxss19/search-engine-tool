@@ -2,6 +2,7 @@ import time
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
+import re
 
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -13,13 +14,16 @@ class Crawler:
     Extracts textual content (quotes) and follows pagination links.
     """
 
-    def __init__(self, base_url, delay=6):
+    def __init__(self, base_url, delay=5):
         self.base_url = base_url
         self.delay = delay
         self.last_request_time = 0
 
         self.session = requests.Session()
         self.session.trust_env = False  # disable proxy
+
+    def normalize(self, text):
+        return " ".join(re.findall(r"\b[a-z]+\b", text.lower()))
 
     def fetch_page(self, url):
         """
@@ -80,7 +84,9 @@ class Crawler:
             if not html:
                 break
 
-            text = " ".join(self.extract_quotes(html))
+            raw_text = " ".join(self.extract_quotes(html))
+            text = self.normalize(raw_text)
+
             if text.strip():
                 pages[current_url] = text
 

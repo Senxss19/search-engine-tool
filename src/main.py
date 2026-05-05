@@ -23,19 +23,21 @@ def build():
 
     print("Index built.")
 
-
 def load():
     """
-    Load index from file system.
-    Returns:
-        (index, metadata)
+        Load index from file system.
+        Returns:
+            (index, metadata)
     """
     try:
         with open(INDEX_FILE, "r", encoding="utf-8") as f:
-            data = json.load(f)
+            index = json.load(f)
+
+        with open(META_FILE, "r", encoding="utf-8") as f:
+            meta = json.load(f)
 
         print("Index loaded.")
-        return data, {}   # keep interface consistent
+        return index, meta["doc_count"]
 
     except FileNotFoundError:
         print("Index file not found. Run 'build' first.")
