@@ -108,36 +108,56 @@ search-engine-tool/
 
 ## ⚙️ Installation
 
+### 1. Clone the repository (Git Bash)
+
 ```bash
 git clone https://github.com/Senxss19/search-engine-tool.git
 cd search-engine-tool
-python -m venv venv
 ````
 
-Activate:
+---
+
+### 2. Create virtual environment (Windows CMD)
+
+> ⚠️ On Windows, it is recommended to use **Command Prompt (cmd)** instead of Git Bash for creating the virtual environment.
+
+Open **Command Prompt**, then run:
 
 ```bash
-# Windows
-venv\Scripts\activate
+python -m venv venv
+```
 
-# Mac/Linux
+---
+
+### 3. Activate virtual environment
+
+#### Windows (CMD)
+
+```bash
+venv\Scripts\activate
+```
+
+#### Mac / Linux
+
+```bash
 source venv/bin/activate
 ```
 
-Install dependencies:
+---
+
+### 4. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
-
----
+--- 
 
 ## 🚀 Usage
 
 Run the CLI:
 
 ```bash
-python src/main.py
+python -m src.main
 ```
 
 ---
