@@ -1,5 +1,5 @@
 import math
-
+import re
 
 class SearchEngine:
     """
@@ -12,7 +12,20 @@ class SearchEngine:
 
     def __init__(self, index, total_docs):
         self.index = index
+        if not isinstance(total_docs, int):
+            raise ValueError("total_docs must be an integer")
         self.total_docs = total_docs
+
+    # -------------------------
+    # Tokenization (FIXED)
+    # -------------------------
+    def tokenize(self, text):
+        """
+        Normalize text:
+        - lowercase
+        - remove punctuation
+        """
+        return re.findall(r"\b[a-z]+\b", text.lower())
 
     # -------------------------
     # TF-IDF
@@ -35,8 +48,8 @@ class SearchEngine:
     # Query parsing
     # -------------------------
     def parse_query(self, query):
-        if '"' in query:
-            return "PHRASE", query.replace('"', '').split()
+        if query.startswith('"') and query.endswith('"'):
+            return "PHRASE", query[1:-1].split()
         elif " AND " in query:
             return "AND", query.split(" AND ")
         elif " OR " in query:
@@ -101,10 +114,11 @@ class SearchEngine:
         # 2. Parse query
         # -------------------------
         mode, words = self.parse_query(query)
-        words = [w.lower() for w in words]
+        words = self.tokenize(" ".join(words))
 
         # remove duplicates to avoid redundant computation
-        words = list(set(words))
+        if mode != "PHRASE":
+            words = list(set(words))
 
         # -------------------------
         # 3. Collect candidate URLs

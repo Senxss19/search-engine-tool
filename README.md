@@ -39,7 +39,7 @@ The system is designed to simulate how real-world search engines process and ret
 ## 🧠 Key Features
 
 ### 🔹 Core Features
-- Web crawler with politeness delay (6 seconds)
+- Web crawler with politeness delay (5 seconds)
 - Inverted index with:
   - term frequency (TF)
   - document frequency (DF)

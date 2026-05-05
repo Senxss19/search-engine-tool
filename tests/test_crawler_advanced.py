@@ -104,11 +104,11 @@ def test_fetch_page_request_exception(mock_get):
 @patch("src.crawler.Crawler.fetch_page")
 def test_crawl_multiple_pages(mock_fetch):
     html_page1 = '''
-        <span class="text">Quote1</span>
+        <span class="text">Quote one</span>
         <li class="next"><a href="/page/2/">Next</a></li>
     '''
     html_page2 = '''
-        <span class="text">Quote2</span>
+        <span class="text">Quote two</span>
     '''
 
     mock_fetch.side_effect = [html_page1, html_page2]

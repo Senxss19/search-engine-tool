@@ -45,10 +45,24 @@ class Indexer:
         self.doc_count += 1
 
     def build_index(self, pages):
-        """
-        Build index from all pages.
-        """
-        for url, text in pages.items():
-            self.add_page(url, text)
+        index = {}
+        total_docs = len(pages)
 
-        return self.index, self.doc_count
+        for url, text in pages.items():
+            words = self.tokenize(text)
+
+            for pos, word in enumerate(words):
+                if word not in index:
+                    index[word] = {"df": 0, "docs": {}}
+
+                if url not in index[word]["docs"]:
+                    index[word]["docs"][url] = {
+                        "tf": 0,
+                        "positions": []
+                    }
+                    index[word]["df"] += 1
+
+                index[word]["docs"][url]["tf"] += 1
+                index[word]["docs"][url]["positions"].append(pos)
+
+        return index, total_docs
