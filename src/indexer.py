@@ -24,7 +24,7 @@ class Indexer:
         - remove punctuation
         """
         text = text.lower()
-        return re.findall(r"\b[a-z]+\b", text)
+        return re.findall(r"[a-z]+", text)
 
     def add_page(self, url, text):
         """

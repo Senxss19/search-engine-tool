@@ -187,7 +187,7 @@ python -m src.main
 ```bash
 > find good friends          # AND query
 > find life OR love          # OR query
-> find "life is beautiful"   # Phrase search
+> find "You have to"         # Phrase search
 ```
 
 ### Suggestions
@@ -238,7 +238,7 @@ pytest --cov=src --cov-report=term
 * ✔ CLI interaction testing
 * ✔ Edge case handling
 
-**Coverage: >90%**
+**Coverage: >95%**
 
 ---
 
