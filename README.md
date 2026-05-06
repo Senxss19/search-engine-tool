@@ -39,7 +39,7 @@ The system is designed to simulate how real-world search engines process and ret
 ## 🧠 Key Features
 
 ### 🔹 Core Features
-- Web crawler with politeness delay (5 seconds)
+- Web crawler with politeness delay (6 seconds)
 - Inverted index with:
   - term frequency (TF)
   - document frequency (DF)
@@ -48,7 +48,7 @@ The system is designed to simulate how real-world search engines process and ret
 
 ---
 
-### 🔹 Advanced Features (High-Distinction Level)
+### 🔹 Advanced Features 
 
 - ✅ **TF-IDF Ranking**
 - ✅ **Boolean Queries**
@@ -265,7 +265,7 @@ pytest --cov=src --cov-report=term
 
 ## 🤖 GenAI Usage & Critical Evaluation
 
-GenAI tools (e.g., ChatGPT / Copilot) were used during development.
+GenAI tools (ChatGPT and Copilot) were used during development.
 
 ### Where GenAI Helped
 
@@ -302,14 +302,16 @@ Using GenAI accelerated development but required critical evaluation to ensure c
 
 ## 🏷️ Versioning
 
-This project follows **Semantic Versioning (SemVer)**:
+This project follows **Semantic Versioning**:
 
+- v3.0.0 – Major improvements in robustness, testing coverage (>90%), and search engine reliability
 - v2.0.0 – Improved testing, coverage (>90%), and system robustness
 - v1.1.0 – Added TF-IDF ranking, boolean queries, and phrase search
 - v1.0.0 – Initial implementation (crawler, index, basic search)
 
 Releases are available on GitHub:
 
+- [v3.0.0](https://github.com/Senxss19/search-engine-tool/releases/tag/v3.0.0)
 - [v2.0.0](https://github.com/Senxss19/search-engine-tool/releases/tag/v2.0.0)
 - [v1.1.0](https://github.com/Senxss19/search-engine-tool/releases/tag/v1.1.0)
 - [v1.0.0](https://github.com/Senxss19/search-engine-tool/releases/tag/v1.0.0)

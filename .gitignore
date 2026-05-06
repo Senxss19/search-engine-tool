@@ -3,6 +3,9 @@
 venv/
 ENV/
 
+# data files
+data/*
+
 # IDE configf
 .idea/
 .vscode/

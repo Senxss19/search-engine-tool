@@ -14,7 +14,7 @@ class Crawler:
     Extracts textual content (quotes) and follows pagination links.
     """
 
-    def __init__(self, base_url, delay=5):
+    def __init__(self, base_url, delay=6):
         self.base_url = base_url
         self.delay = delay
         self.last_request_time = 0
